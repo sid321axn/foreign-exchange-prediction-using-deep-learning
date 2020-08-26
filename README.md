@@ -4,4 +4,4 @@ In this project, we will demonstrate the application of two different variants o
 
 # Plot of GRU model performance
 
-![MSA](images/final_plot.PNG)
+![MSA](images/final_plot.png)
